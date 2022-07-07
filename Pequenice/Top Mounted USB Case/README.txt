@@ -1,1 +1,1 @@
-The amount of each file to be cut is in the README.txt along with the files
+The amount of each file to be cut is in the READ.ME.txt (it has a period in the middle) along with the files
