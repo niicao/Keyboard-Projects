@@ -10,3 +10,4 @@ The main goal of this project was to make an affordable alice-layout case so the
 A small GB ran in mid-July ~ early-August with 8 units being sold and no-profit on my end (20 BRL of profit for each case, less than 4 USD per piece at the time).
 This was my first take in designing a keyboard, it isn't even close to what I feel is a good keyboard but it managed to complete its goal.
 
+https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_ground
