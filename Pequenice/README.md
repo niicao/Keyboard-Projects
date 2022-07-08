@@ -18,7 +18,16 @@ For the price, this is a pretty decent keyboard, with a very nice sound profile,
 * Built with Lavenders lubed with Krytox 205g0
 * Durock V2 Screw-In Stabs lubed with 205g0
 * POM Plate
+* Sneakbox's Hotswap Alice PCB
 * Aliexpress Fake Honor Keyset
+Obs: The feet were redesigned due to excessive flex caused by no support in the middle of the keyboard, if you want the excessive flex, simply remove the connection between the extremities of the feet, turning one piece into two.
 
-![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_ground.jpg)
+![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_ground "Pequenice")
 
+![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_hand "Pequenice on hand")
+
+![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_back.jpg "Pequenice's Bottom")
+
+![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_foot.jpg "Pequenice's Feet")
+
+![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_weight.jpg "Pequenice's Weight")
