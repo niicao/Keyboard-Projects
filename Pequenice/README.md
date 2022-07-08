@@ -20,3 +20,5 @@ For the price, this is a pretty decent keyboard, with a very nice sound profile,
 * POM Plate
 * Aliexpress Fake Honor Keyset
 
+![alt-text](https://github.com/niicao/Keyboard-Projects/blob/main/Pequenice/pequenice_ground.jpg)
+
